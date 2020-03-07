@@ -15,10 +15,12 @@ replace (
 )
 
 require (
+	github.com/beego/bee v1.10.0 // indirect
 	github.com/go-ini/ini v1.52.0 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
+	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/tietang/go-utils v0.1.3 // indirect
-	github.com/tietang/props v2.2.0+incompatible // indirect
+	github.com/tietang/props v2.2.0+incompatible
 	github.com/valyala/fasttemplate v1.1.0 // indirect
-	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550 // indirect
+	gopkg.in/ini.v1 v1.54.0 // indirect
 )
